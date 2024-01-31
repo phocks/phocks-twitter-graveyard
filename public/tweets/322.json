@@ -1,0 +1,6533 @@
+[
+  {
+    "tweet": {
+      "created_at": "Sun Sep 18 21:18:08 +0000 2022",
+      "display_text_range": [
+        "0",
+        "64"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571609540474568705"
+          ],
+          "editableUntil": "2022-09-18T21:48:08.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BIF8pk8tLb",
+            "expanded_url": "https://twitter.com/phocks/status/1571609540474568705/photo/1",
+            "id": "1571609482794520578",
+            "id_str": "1571609482794520578",
+            "indices": [
+              "41",
+              "64"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fc96f3OaUAIpRTl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fc96f3OaUAIpRTl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1077",
+                "resize": "fit",
+                "w": "1076"
+              },
+              "medium": {
+                "h": "1077",
+                "resize": "fit",
+                "w": "1076"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "679"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BIF8pk8tLb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1462681",
+            "id_str": "1462681",
+            "indices": [
+              "0",
+              "6"
+            ],
+            "name": "Simon Elvery",
+            "screen_name": "drzax"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BIF8pk8tLb",
+            "expanded_url": "https://twitter.com/phocks/status/1571609540474568705/photo/1",
+            "id": "1571609482794520578",
+            "id_str": "1571609482794520578",
+            "indices": [
+              "41",
+              "64"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fc96f3OaUAIpRTl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fc96f3OaUAIpRTl.jpg",
+            "sizes": {
+              "large": {
+                "h": "1077",
+                "resize": "fit",
+                "w": "1076"
+              },
+              "medium": {
+                "h": "1077",
+                "resize": "fit",
+                "w": "1076"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "679"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BIF8pk8tLb"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@drzax You must have the UK model iPhone https://t.co/BIF8pk8tLb",
+      "id": "1571609540474568705",
+      "id_str": "1571609540474568705",
+      "in_reply_to_screen_name": "drzax",
+      "in_reply_to_status_id": "1571604855525089282",
+      "in_reply_to_status_id_str": "1571604855525089282",
+      "in_reply_to_user_id": "1462681",
+      "in_reply_to_user_id_str": "1462681",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 18 21:39:03 +0000 2022",
+      "display_text_range": [
+        "0",
+        "110"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571614805336920065"
+          ],
+          "editableUntil": "2022-09-18T22:09:03.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "11",
+      "favorited": false,
+      "full_text": "absolutely wild that people still buy a phone that can only run 1 browser and that browser is apple safari lol",
+      "id": "1571614805336920065",
+      "id_str": "1571614805336920065",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 18 22:02:16 +0000 2022",
+      "display_text_range": [
+        "0",
+        "104"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571620647570395136"
+          ],
+          "editableUntil": "2022-09-18T22:32:16.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "news.ycombinator.com/item?id=258500…",
+            "expanded_url": "https://news.ycombinator.com/item?id=25850091",
+            "indices": [
+              "81",
+              "104"
+            ],
+            "url": "https://t.co/ToUYDRRSBE"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "17181421",
+            "id_str": "17181421",
+            "indices": [
+              "0",
+              "13"
+            ],
+            "name": "scorp_ Dead Kids Can't Read 🌿 Ⓥ ",
+            "screen_name": "scorpiotiger"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@scorpiotiger Yeah it sucks. Apple does more than push it too. It's mandatory :/ https://t.co/ToUYDRRSBE",
+      "id": "1571620647570395136",
+      "id_str": "1571620647570395136",
+      "in_reply_to_screen_name": "scorpiotiger",
+      "in_reply_to_status_id": "1571618105733832704",
+      "in_reply_to_status_id_str": "1571618105733832704",
+      "in_reply_to_user_id": "17181421",
+      "in_reply_to_user_id_str": "17181421",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 00:34:06 +0000 2022",
+      "display_text_range": [
+        "0",
+        "212"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571658858015379456"
+          ],
+          "editableUntil": "2022-09-19T01:04:06.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "theatlantic.com/technology/arc…",
+            "expanded_url": "https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/",
+            "indices": [
+              "189",
+              "212"
+            ],
+            "url": "https://t.co/uv3ITiSVvx"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "Fascinating analysis on how computers (now easily able to run rings around even the best human players) have changed the game of competitive chess. For better? For worse? That's debatable. https://t.co/uv3ITiSVvx",
+      "id": "1571658858015379456",
+      "id_str": "1571658858015379456",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "3",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 00:52:29 +0000 2022",
+      "display_text_range": [
+        "0",
+        "71"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571663483800002560"
+          ],
+          "editableUntil": "2022-09-19T01:22:29.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "21",
+      "favorited": false,
+      "full_text": "Hearing reports they’re renaming Queensland to Kingsland. Huge if true!",
+      "id": "1571663483800002560",
+      "id_str": "1571663483800002560",
+      "lang": "en",
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 02:33:52 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571688999202263040"
+          ],
+          "editableUntil": "2022-09-19T03:03:52.636Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1346032045",
+            "id_str": "1346032045",
+            "indices": [
+              "3",
+              "19"
+            ],
+            "name": "KNOT (Toolangi)",
+            "screen_name": "knittingnannasT"
+          },
+          {
+            "id": "1063672498003181568",
+            "id_str": "1063672498003181568",
+            "indices": [
+              "21",
+              "36"
+            ],
+            "name": "🌏Linda Gill🌏💦💙💚🌏💚💙💦 NO DM's",
+            "screen_name": "Earth1stlinda2"
+          },
+          {
+            "id": "307755781",
+            "id_str": "307755781",
+            "indices": [
+              "37",
+              "53"
+            ],
+            "name": "Tanya Plibersek",
+            "screen_name": "tanya_plibersek"
+          },
+          {
+            "id": "981722591025971200",
+            "id_str": "981722591025971200",
+            "indices": [
+              "54",
+              "67"
+            ],
+            "name": "Australian Forests and Climate Alliance",
+            "screen_name": "AFCA_Forests"
+          },
+          {
+            "id": "3009672668",
+            "id_str": "3009672668",
+            "indices": [
+              "68",
+              "81"
+            ],
+            "name": "North East Forest Alliance (NEFA)",
+            "screen_name": "forests4ever"
+          },
+          {
+            "id": "936904334813536256",
+            "id_str": "936904334813536256",
+            "indices": [
+              "82",
+              "96"
+            ],
+            "name": "🕯🖤💛Knitting Nannas Midcoast 💛🖤🕯",
+            "screen_name": "Midcoast_KNAG"
+          },
+          {
+            "id": "1476489815856013312",
+            "id_str": "1476489815856013312",
+            "indices": [
+              "97",
+              "113"
+            ],
+            "name": "Victorian Forest Alliance",
+            "screen_name": "alliance_forest"
+          },
+          {
+            "id": "730556698033684481",
+            "id_str": "730556698033684481",
+            "indices": [
+              "114",
+              "129"
+            ],
+            "name": "SERCA",
+            "screen_name": "forestsforlife"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @knittingnannasT: @Earth1stlinda2 @tanya_plibersek @AFCA_Forests @forests4ever @Midcoast_KNAG @alliance_forest @forestsforlife @BobBrown…",
+      "id": "1571688999202263040",
+      "id_str": "1571688999202263040",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 03:41:54 +0000 2022",
+      "display_text_range": [
+        "0",
+        "55"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571706119273480194"
+          ],
+          "editableUntil": "2022-09-19T04:11:54.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "I can't believe it's t-shirt and shorts weather already",
+      "id": "1571706119273480194",
+      "id_str": "1571706119273480194",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 05:17:52 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571730269165735936"
+          ],
+          "editableUntil": "2022-09-19T05:47:52.162Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "95091601",
+            "id_str": "95091601",
+            "indices": [
+              "3",
+              "16"
+            ],
+            "name": "Patricia Karvelas",
+            "screen_name": "PatsKarvelas"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @PatsKarvelas: A powerful piece by my colleague Stan Grant. \nIndigenous Australia can't be expected to shut up. Our sorry business is wi…",
+      "id": "1571730269165735936",
+      "id_str": "1571730269165735936",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 09:16:12 +0000 2022",
+      "display_text_range": [
+        "0",
+        "261"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571790247415123968"
+          ],
+          "editableUntil": "2022-09-19T09:46:12.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/ExtinctionR/st…",
+            "expanded_url": "https://twitter.com/ExtinctionR/status/1571786902910472192",
+            "indices": [
+              "238",
+              "261"
+            ],
+            "url": "https://t.co/7djM3nyWts"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "12",
+      "favorited": false,
+      "full_text": "If I was a politician and wanted to stop the literal catastrophic destruction of the planet I would simply stop giving 700 billion dollars a year to fund the very thing causing the literal catastrophic destruction of the planet ¯\\_(ツ)_/¯ https://t.co/7djM3nyWts",
+      "id": "1571790247415123968",
+      "id_str": "1571790247415123968",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 12:28:25 +0000 2022",
+      "display_text_range": [
+        "0",
+        "37"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571838623858978817"
+          ],
+          "editableUntil": "2022-09-19T12:58:25.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "We should rename it Kings Landing tbh",
+      "id": "1571838623858978817",
+      "id_str": "1571838623858978817",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1571663483800002560",
+      "in_reply_to_status_id_str": "1571663483800002560",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jul 19 08:02:26 +0000 2007",
+      "display_text_range": [
+        "0",
+        "60"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157188532"
+          ],
+          "editableUntil": "2007-07-19T09:02:26.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "setting up to record The Strange Attractors interview at 7pm",
+      "id": "157188532",
+      "id_str": "157188532",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 21:03:57 +0000 2022",
+      "display_text_range": [
+        "0",
+        "40"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571968359608229888"
+          ],
+          "editableUntil": "2022-09-19T21:33:57.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15179219",
+            "id_str": "15179219",
+            "indices": [
+              "0",
+              "14"
+            ],
+            "name": "Whaley Good",
+            "screen_name": "GrantLPollerd"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@GrantLPollerd I know. What a wild idea!",
+      "id": "1571968359608229888",
+      "id_str": "1571968359608229888",
+      "in_reply_to_screen_name": "GrantLPollerd",
+      "in_reply_to_status_id": "1571967198310313985",
+      "in_reply_to_status_id_str": "1571967198310313985",
+      "in_reply_to_user_id": "15179219",
+      "in_reply_to_user_id_str": "15179219",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 22:27:07 +0000 2022",
+      "display_text_range": [
+        "0",
+        "16"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571989291362037760"
+          ],
+          "editableUntil": "2022-09-19T22:57:07.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@redbullspice_ 🐈",
+      "id": "1571989291362037760",
+      "id_str": "1571989291362037760",
+      "in_reply_to_screen_name": "revdrpepper",
+      "in_reply_to_status_id": "1571988663067881476",
+      "in_reply_to_status_id_str": "1571988663067881476",
+      "in_reply_to_user_id": "2363709284",
+      "in_reply_to_user_id_str": "2363709284",
+      "lang": "qme",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 22:47:42 +0000 2022",
+      "display_text_range": [
+        "0",
+        "38"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1571994469360349191"
+          ],
+          "editableUntil": "2022-09-19T23:17:42.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Iq9agYvlBs",
+            "expanded_url": "https://twitter.com/phocks/status/1571994469360349191/photo/1",
+            "id": "1571994459273064449",
+            "id_str": "1571994459273064449",
+            "indices": [
+              "15",
+              "38"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDYocXacAEUo_W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDYocXacAEUo_W.jpg",
+            "sizes": {
+              "large": {
+                "h": "1573",
+                "resize": "fit",
+                "w": "1902"
+              },
+              "medium": {
+                "h": "992",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "562",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Iq9agYvlBs"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "15179219",
+            "id_str": "15179219",
+            "indices": [
+              "0",
+              "14"
+            ],
+            "name": "Whaley Good",
+            "screen_name": "GrantLPollerd"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Iq9agYvlBs",
+            "expanded_url": "https://twitter.com/phocks/status/1571994469360349191/photo/1",
+            "id": "1571994459273064449",
+            "id_str": "1571994459273064449",
+            "indices": [
+              "15",
+              "38"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDYocXacAEUo_W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDYocXacAEUo_W.jpg",
+            "sizes": {
+              "large": {
+                "h": "1573",
+                "resize": "fit",
+                "w": "1902"
+              },
+              "medium": {
+                "h": "992",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "562",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Iq9agYvlBs"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@GrantLPollerd https://t.co/Iq9agYvlBs",
+      "id": "1571994469360349191",
+      "id_str": "1571994469360349191",
+      "in_reply_to_screen_name": "GrantLPollerd",
+      "in_reply_to_status_id": "1571969400663838720",
+      "in_reply_to_status_id_str": "1571969400663838720",
+      "in_reply_to_user_id": "15179219",
+      "in_reply_to_user_id_str": "15179219",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 23:46:54 +0000 2022",
+      "display_text_range": [
+        "0",
+        "147"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572009366622183424"
+          ],
+          "editableUntil": "2022-09-20T00:16:54.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RtE0WCIhv5",
+            "expanded_url": "https://twitter.com/phocks/status/1572009366622183424/photo/1",
+            "id": "1572009338411307008",
+            "id_str": "1572009338411307008",
+            "indices": [
+              "124",
+              "147"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDmKheaUAAXvzQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDmKheaUAAXvzQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RtE0WCIhv5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/RtE0WCIhv5",
+            "expanded_url": "https://twitter.com/phocks/status/1572009366622183424/photo/1",
+            "id": "1572009338411307008",
+            "id_str": "1572009338411307008",
+            "indices": [
+              "124",
+              "147"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDmKheaUAAXvzQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDmKheaUAAXvzQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "1536"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/RtE0WCIhv5"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "Messing around with Stable Diffusion: ... a serene ocean with death stars floating in it and skylarks flying in the sky ... https://t.co/RtE0WCIhv5",
+      "id": "1572009366622183424",
+      "id_str": "1572009366622183424",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 19 23:49:31 +0000 2022",
+      "display_text_range": [
+        "0",
+        "77"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572010025748664320"
+          ],
+          "editableUntil": "2022-09-20T00:19:31.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "It didn't quite understand the prompt fully but I'm impressed with the result",
+      "id": "1572010025748664320",
+      "id_str": "1572010025748664320",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1572009366622183424",
+      "in_reply_to_status_id_str": "1572009366622183424",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 00:09:55 +0000 2022",
+      "display_text_range": [
+        "0",
+        "72"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572015160998629376"
+          ],
+          "editableUntil": "2022-09-20T00:39:55.668Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AHRF8OO8zf",
+            "expanded_url": "https://twitter.com/perfectsweeties/status/1571994533545807872/photo/1",
+            "id": "1571994530206961665",
+            "id_str": "1571994530206961665",
+            "indices": [
+              "49",
+              "72"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDYsknX0AER4Ny.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDYsknX0AER4Ny.jpg",
+            "sizes": {
+              "large": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "medium": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "small": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1571994533545807872",
+            "source_status_id_str": "1571994533545807872",
+            "source_user_id": "2168290409",
+            "source_user_id_str": "2168290409",
+            "type": "photo",
+            "url": "https://t.co/AHRF8OO8zf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "2168290409",
+            "id_str": "2168290409",
+            "indices": [
+              "3",
+              "19"
+            ],
+            "name": "thomas 🍌",
+            "screen_name": "perfectsweeties"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AHRF8OO8zf",
+            "expanded_url": "https://twitter.com/perfectsweeties/status/1571994533545807872/photo/1",
+            "id": "1571994530206961665",
+            "id_str": "1571994530206961665",
+            "indices": [
+              "49",
+              "72"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdDYsknX0AER4Ny.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdDYsknX0AER4Ny.jpg",
+            "sizes": {
+              "large": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "medium": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "small": {
+                "h": "478",
+                "resize": "fit",
+                "w": "626"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1571994533545807872",
+            "source_status_id_str": "1571994533545807872",
+            "source_user_id": "2168290409",
+            "source_user_id_str": "2168290409",
+            "type": "photo",
+            "url": "https://t.co/AHRF8OO8zf"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @perfectsweeties: i’ve been taking some notes https://t.co/AHRF8OO8zf",
+      "id": "1572015160998629376",
+      "id_str": "1572015160998629376",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 00:21:56 +0000 2022",
+      "display_text_range": [
+        "0",
+        "54"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572018183112110080"
+          ],
+          "editableUntil": "2022-09-20T00:51:56.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Also, that's definitely Snoke there in the boat right?",
+      "id": "1572018183112110080",
+      "id_str": "1572018183112110080",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1572010025748664320",
+      "in_reply_to_status_id_str": "1572010025748664320",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 00:33:16 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572021036916576256"
+          ],
+          "editableUntil": "2022-09-20T01:03:16.596Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "177101260",
+            "id_str": "177101260",
+            "indices": [
+              "3",
+              "17"
+            ],
+            "name": "Massimo",
+            "screen_name": "Rainmaker1973"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @Rainmaker1973: One of the best examples of cryptic plumage and mimicry in Australian birds is seen in the tawny frogmouth which perch l…",
+      "id": "1572021036916576256",
+      "id_str": "1572021036916576256",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 01:49:34 +0000 2022",
+      "display_text_range": [
+        "0",
+        "40"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572040237140045824"
+          ],
+          "editableUntil": "2022-09-20T02:19:34.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abc.net.au/news/2022-09-2…",
+            "expanded_url": "https://www.abc.net.au/news/2022-09-20/world-champ-magnus-carlsen-shocks-chess-world-resigns-one-move/101456768",
+            "indices": [
+              "17",
+              "40"
+            ],
+            "url": "https://t.co/QQiz9ruJnP"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "8",
+      "favorited": false,
+      "full_text": "Have a sook mate https://t.co/QQiz9ruJnP",
+      "id": "1572040237140045824",
+      "id_str": "1572040237140045824",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 03:59:03 +0000 2022",
+      "display_text_range": [
+        "0",
+        "26"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572072822603919360"
+          ],
+          "editableUntil": "2022-09-20T04:29:03.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "12",
+            "id_str": "12",
+            "indices": [
+              "0",
+              "5"
+            ],
+            "name": "jack",
+            "screen_name": "jack"
+          }
+        ]
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "@jack This didn't age well",
+      "id": "1572072822603919360",
+      "id_str": "1572072822603919360",
+      "in_reply_to_screen_name": "jack",
+      "in_reply_to_status_id": "1518772756069773313",
+      "in_reply_to_status_id_str": "1518772756069773313",
+      "in_reply_to_user_id": "12",
+      "in_reply_to_user_id_str": "12",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 07:59:50 +0000 2022",
+      "display_text_range": [
+        "0",
+        "193"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572133416627507200"
+          ],
+          "editableUntil": "2022-09-20T08:29:50.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ir2JsyM7XT",
+            "expanded_url": "https://twitter.com/phocks/status/1572133416627507200/photo/1",
+            "id": "1572133412454166528",
+            "id_str": "1572133412454166528",
+            "indices": [
+              "170",
+              "193"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdFXAlTacAAbbgH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdFXAlTacAAbbgH.jpg",
+            "sizes": {
+              "large": {
+                "h": "1783",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1045",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "592",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ir2JsyM7XT"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ir2JsyM7XT",
+            "expanded_url": "https://twitter.com/phocks/status/1572133416627507200/photo/1",
+            "id": "1572133412454166528",
+            "id_str": "1572133412454166528",
+            "indices": [
+              "170",
+              "193"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdFXAlTacAAbbgH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdFXAlTacAAbbgH.jpg",
+            "sizes": {
+              "large": {
+                "h": "1783",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "1045",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "592",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ir2JsyM7XT"
+          }
+        ]
+      },
+      "favorite_count": "37",
+      "favorited": false,
+      "full_text": "Went ingredient-checking on a few old favourites tonight and YES these Arnott's Raspberry Shortcakes are indeed accidentally vegan it seems! Hello childhood nostalgia! 😋 https://t.co/Ir2JsyM7XT",
+      "id": "1572133416627507200",
+      "id_str": "1572133416627507200",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 08:24:53 +0000 2022",
+      "display_text_range": [
+        "0",
+        "46"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572139723304620034"
+          ],
+          "editableUntil": "2022-09-20T08:54:53.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "30602693",
+            "id_str": "30602693",
+            "indices": [
+              "0",
+              "15"
+            ],
+            "name": "Kate",
+            "screen_name": "laterkatersays"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@laterkatersays Landlords are the worst people",
+      "id": "1572139723304620034",
+      "id_str": "1572139723304620034",
+      "in_reply_to_screen_name": "laterkatersays",
+      "in_reply_to_status_id": "1572007332548345856",
+      "in_reply_to_status_id_str": "1572007332548345856",
+      "in_reply_to_user_id": "30602693",
+      "in_reply_to_user_id_str": "30602693",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 11:00:20 +0000 2022",
+      "display_text_range": [
+        "0",
+        "83"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572178843921969157"
+          ],
+          "editableUntil": "2022-09-20T11:30:20.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@JAndreaPhoto Not sure how many actual raspberries are in these. They're delicious!",
+      "id": "1572178843921969157",
+      "id_str": "1572178843921969157",
+      "in_reply_to_status_id": "1572169360093085698",
+      "in_reply_to_status_id_str": "1572169360093085698",
+      "in_reply_to_user_id": "1224507708868562944",
+      "in_reply_to_user_id_str": "1224507708868562944",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 11:01:06 +0000 2022",
+      "display_text_range": [
+        "0",
+        "55"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572179037606531072"
+          ],
+          "editableUntil": "2022-09-20T11:31:06.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "4185121399",
+            "id_str": "4185121399",
+            "indices": [
+              "0",
+              "10"
+            ],
+            "name": "Sriganesh 'Maverick' Srihari",
+            "screen_name": "srigsri23"
+          },
+          {
+            "id": "136212094",
+            "id_str": "136212094",
+            "indices": [
+              "11",
+              "27"
+            ],
+            "name": "Chirag Barjatya",
+            "screen_name": "chiragbarjatyaa"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@srigsri23 @chiragbarjatyaa because we aren't baby cows",
+      "id": "1572179037606531072",
+      "id_str": "1572179037606531072",
+      "in_reply_to_screen_name": "srigsri23",
+      "in_reply_to_status_id": "1572168442740113414",
+      "in_reply_to_status_id_str": "1572168442740113414",
+      "in_reply_to_user_id": "4185121399",
+      "in_reply_to_user_id_str": "4185121399",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 11:09:33 +0000 2022",
+      "display_text_range": [
+        "0",
+        "102"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572181162378002432"
+          ],
+          "editableUntil": "2022-09-20T11:39:33.481Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Tpnn7faStf",
+            "expanded_url": "https://twitter.com/PrinceVogel/status/1571594177712103424/photo/1",
+            "id": "1571594175295938560",
+            "id_str": "1571594175295938560",
+            "indices": [
+              "79",
+              "102"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fc9sk2WWYAAWe_t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fc9sk2WWYAAWe_t.jpg",
+            "sizes": {
+              "large": {
+                "h": "945",
+                "resize": "fit",
+                "w": "712"
+              },
+              "medium": {
+                "h": "945",
+                "resize": "fit",
+                "w": "712"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "512"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1571594177712103424",
+            "source_status_id_str": "1571594177712103424",
+            "source_user_id": "1225576032163360770",
+            "source_user_id_str": "1225576032163360770",
+            "type": "photo",
+            "url": "https://t.co/Tpnn7faStf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1225576032163360770",
+            "id_str": "1225576032163360770",
+            "indices": [
+              "3",
+              "15"
+            ],
+            "name": "Prince Vogelfrei",
+            "screen_name": "PrinceVogel"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Tpnn7faStf",
+            "expanded_url": "https://twitter.com/PrinceVogel/status/1571594177712103424/photo/1",
+            "id": "1571594175295938560",
+            "id_str": "1571594175295938560",
+            "indices": [
+              "79",
+              "102"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fc9sk2WWYAAWe_t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fc9sk2WWYAAWe_t.jpg",
+            "sizes": {
+              "large": {
+                "h": "945",
+                "resize": "fit",
+                "w": "712"
+              },
+              "medium": {
+                "h": "945",
+                "resize": "fit",
+                "w": "712"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "512"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1571594177712103424",
+            "source_status_id_str": "1571594177712103424",
+            "source_user_id": "1225576032163360770",
+            "source_user_id_str": "1225576032163360770",
+            "type": "photo",
+            "url": "https://t.co/Tpnn7faStf"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @PrinceVogel: Get in the car, we're exploring databases and finding friends https://t.co/Tpnn7faStf",
+      "id": "1572181162378002432",
+      "id_str": "1572181162378002432",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 12:14:54 +0000 2022",
+      "display_text_range": [
+        "0",
+        "18"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572197606817951745"
+          ],
+          "editableUntil": "2022-09-20T12:44:54.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14350239",
+            "id_str": "14350239",
+            "indices": [
+              "0",
+              "10"
+            ],
+            "name": "Car-lee Em Ⓥ🐮🐷🐥",
+            "screen_name": "hyperskip"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@hyperskip AWESOME",
+      "id": "1572197606817951745",
+      "id_str": "1572197606817951745",
+      "in_reply_to_screen_name": "hyperskip",
+      "in_reply_to_status_id": "1572196984240615424",
+      "in_reply_to_status_id_str": "1572196984240615424",
+      "in_reply_to_user_id": "14350239",
+      "in_reply_to_user_id_str": "14350239",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 12:19:23 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572198737816211464"
+          ],
+          "editableUntil": "2022-09-20T12:49:23.792Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "809146083259650048",
+            "id_str": "809146083259650048",
+            "indices": [
+              "3",
+              "18"
+            ],
+            "name": "No Added Milk Powder Ⓥ (they/them)",
+            "screen_name": "Tori_got_moxie"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @Tori_got_moxie: People who say that vegans “have no right to tell them what to eat” seem awfully comfortable telling a cow to die for t…",
+      "id": "1572198737816211464",
+      "id_str": "1572198737816211464",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 20:46:19 +0000 2022",
+      "display_text_range": [
+        "0",
+        "58"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572326310281871362"
+          ],
+          "editableUntil": "2022-09-20T21:16:19.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14350239",
+            "id_str": "14350239",
+            "indices": [
+              "0",
+              "10"
+            ],
+            "name": "Car-lee Em Ⓥ🐮🐷🐥",
+            "screen_name": "hyperskip"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@hyperskip Sounds great. Wish we could get out more often!",
+      "id": "1572326310281871362",
+      "id_str": "1572326310281871362",
+      "in_reply_to_screen_name": "hyperskip",
+      "in_reply_to_status_id": "1572200852294881280",
+      "in_reply_to_status_id_str": "1572200852294881280",
+      "in_reply_to_user_id": "14350239",
+      "in_reply_to_user_id_str": "14350239",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 20 21:50:02 +0000 2022",
+      "display_text_range": [
+        "0",
+        "235"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572342347391971329"
+          ],
+          "editableUntil": "2022-09-20T22:20:02.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abc.net.au/news/2022-09-2…",
+            "expanded_url": "https://www.abc.net.au/news/2022-09-21/australia-is-in-the-grip-of-its-worst-rental-crisis/101453246",
+            "indices": [
+              "212",
+              "235"
+            ],
+            "url": "https://t.co/jEz86ROsGZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "20",
+      "favorited": false,
+      "full_text": "This sucks. People are having to raise their kids in tents. It would be cool if the government actually did their jobs and helped ordinary Australians instead of giving billions to the fossil fuel industry. 🤷‍♀️ https://t.co/jEz86ROsGZ",
+      "id": "1572342347391971329",
+      "id_str": "1572342347391971329",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "7",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 04:21:52 +0000 2009",
+      "display_text_range": [
+        "0",
+        "137"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572377461"
+          ],
+          "editableUntil": "2009-04-21T05:21:52.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "19278023",
+            "id_str": "19278023",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "Yollana Shore",
+            "screen_name": "yollana"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@yollana your reply slipped by. other things i find fill my mind, a different kind of turmoil perhaps, though to another may seem a treat",
+      "id": "1572377461",
+      "id_str": "1572377461",
+      "in_reply_to_screen_name": "yollana",
+      "in_reply_to_status_id": "1533148254",
+      "in_reply_to_status_id_str": "1533148254",
+      "in_reply_to_user_id": "19278023",
+      "in_reply_to_user_id_str": "19278023",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 00:49:36 +0000 2022",
+      "display_text_range": [
+        "0",
+        "203"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572387536609353728"
+          ],
+          "editableUntil": "2022-09-21T01:19:36.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "946553114278195200",
+            "id_str": "946553114278195200",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Linda Ⓥ",
+            "screen_name": "LindaKayak7"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@LindaKayak7 A \"like\" for me is just a way to send a little heart to the person posting it and to give a little boost to the post in the algorithm to spread awareness. I like to give out lots of likes ♥️",
+      "id": "1572387536609353728",
+      "id_str": "1572387536609353728",
+      "in_reply_to_screen_name": "LindaKayak7",
+      "in_reply_to_status_id": "1572385547666227200",
+      "in_reply_to_status_id_str": "1572385547666227200",
+      "in_reply_to_user_id": "946553114278195200",
+      "in_reply_to_user_id_str": "946553114278195200",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 06:23:08 +0000 2022",
+      "display_text_range": [
+        "0",
+        "35"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572471470588329989"
+          ],
+          "editableUntil": "2022-09-21T06:53:08.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/m8tXajoIxd",
+            "expanded_url": "https://twitter.com/phocks/status/1572471470588329989/photo/1",
+            "id": "1572471461960646664",
+            "id_str": "1572471461960646664",
+            "indices": [
+              "12",
+              "35"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdKKdp2agAgsId_.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdKKdp2agAgsId_.jpg",
+            "sizes": {
+              "large": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "medium": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "small": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/m8tXajoIxd"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "166475082",
+            "id_str": "166475082",
+            "indices": [
+              "0",
+              "11"
+            ],
+            "name": "Chuck",
+            "screen_name": "moshpitson"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/m8tXajoIxd",
+            "expanded_url": "https://twitter.com/phocks/status/1572471470588329989/photo/1",
+            "id": "1572471461960646664",
+            "id_str": "1572471461960646664",
+            "indices": [
+              "12",
+              "35"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdKKdp2agAgsId_.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdKKdp2agAgsId_.jpg",
+            "sizes": {
+              "large": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "medium": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "small": {
+                "h": "280",
+                "resize": "fit",
+                "w": "498"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/m8tXajoIxd",
+            "video_info": {
+              "aspect_ratio": [
+                "249",
+                "140"
+              ],
+              "variants": [
+                {
+                  "bitrate": "0",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/FdKKdp2agAgsId_.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@moshpitson https://t.co/m8tXajoIxd",
+      "id": "1572471470588329989",
+      "id_str": "1572471470588329989",
+      "in_reply_to_screen_name": "moshpitson",
+      "in_reply_to_status_id": "1572470584847769600",
+      "in_reply_to_status_id_str": "1572470584847769600",
+      "in_reply_to_user_id": "166475082",
+      "in_reply_to_user_id_str": "166475082",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 07:36:40 +0000 2022",
+      "display_text_range": [
+        "0",
+        "48"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572489976285368321"
+          ],
+          "editableUntil": "2022-09-21T08:06:40.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/phocks/status/…",
+            "expanded_url": "https://twitter.com/phocks/status/1562014057481154560?t=ZPwavsNlTrk6fx1kXYHaiQ&s=19",
+            "indices": [
+              "25",
+              "48"
+            ],
+            "url": "https://t.co/bAdSfy4WUF"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1835601",
+            "id_str": "1835601",
+            "indices": [
+              "0",
+              "7"
+            ],
+            "name": "geekgirl",
+            "screen_name": "rosiex"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@rosiex This could be it https://t.co/bAdSfy4WUF",
+      "id": "1572489976285368321",
+      "id_str": "1572489976285368321",
+      "in_reply_to_screen_name": "rosiex",
+      "in_reply_to_status_id": "1572489787805933568",
+      "in_reply_to_status_id_str": "1572489787805933568",
+      "in_reply_to_user_id": "1835601",
+      "in_reply_to_user_id_str": "1835601",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 08:46:42 +0000 2022",
+      "display_text_range": [
+        "0",
+        "62"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572507602889887745"
+          ],
+          "editableUntil": "2022-09-21T09:16:42.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bere.al/phocks",
+            "expanded_url": "https://bere.al/phocks",
+            "indices": [
+              "39",
+              "62"
+            ],
+            "url": "https://t.co/JqzX2nfvNt"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "Soooo anyone on this BeReal app thing? https://t.co/JqzX2nfvNt",
+      "id": "1572507602889887745",
+      "id_str": "1572507602889887745",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 08:47:02 +0000 2022",
+      "display_text_range": [
+        "0",
+        "55"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572507684334866433"
+          ],
+          "editableUntil": "2022-09-21T09:17:02.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1835601",
+            "id_str": "1835601",
+            "indices": [
+              "0",
+              "7"
+            ],
+            "name": "geekgirl",
+            "screen_name": "rosiex"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@rosiex Yeah prices of most things are nuts these days!",
+      "id": "1572507684334866433",
+      "id_str": "1572507684334866433",
+      "in_reply_to_screen_name": "rosiex",
+      "in_reply_to_status_id": "1572504208523530241",
+      "in_reply_to_status_id_str": "1572504208523530241",
+      "in_reply_to_user_id": "1835601",
+      "in_reply_to_user_id_str": "1835601",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 09:12:30 +0000 2022",
+      "display_text_range": [
+        "0",
+        "32"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572514095395667970"
+          ],
+          "editableUntil": "2022-09-21T09:42:30.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "6537142",
+            "id_str": "6537142",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Amanda Dell",
+            "screen_name": "dellvink"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@dellvink Feel free to add me :)",
+      "id": "1572514095395667970",
+      "id_str": "1572514095395667970",
+      "in_reply_to_screen_name": "dellvink",
+      "in_reply_to_status_id": "1572512002521829383",
+      "in_reply_to_status_id_str": "1572512002521829383",
+      "in_reply_to_user_id": "6537142",
+      "in_reply_to_user_id_str": "6537142",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 09:14:08 +0000 2022",
+      "display_text_range": [
+        "0",
+        "57"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572514505716035584"
+          ],
+          "editableUntil": "2022-09-21T09:44:08.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1835601",
+            "id_str": "1835601",
+            "indices": [
+              "0",
+              "7"
+            ],
+            "name": "geekgirl",
+            "screen_name": "rosiex"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@rosiex Dang! Gotta boost those gluten tolerance levels 😁",
+      "id": "1572514505716035584",
+      "id_str": "1572514505716035584",
+      "in_reply_to_screen_name": "rosiex",
+      "in_reply_to_status_id": "1572513931465486337",
+      "in_reply_to_status_id_str": "1572513931465486337",
+      "in_reply_to_user_id": "1835601",
+      "in_reply_to_user_id_str": "1835601",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 09:33:05 +0000 2022",
+      "display_text_range": [
+        "0",
+        "62"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572519273016463362"
+          ],
+          "editableUntil": "2022-09-21T10:03:05.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "146",
+      "favorited": false,
+      "full_text": "Vegan burger for lunch. Vegan burger for dinner. Life is good!",
+      "id": "1572519273016463362",
+      "id_str": "1572519273016463362",
+      "lang": "en",
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 09:54:21 +0000 2022",
+      "display_text_range": [
+        "0",
+        "77"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572524624256323585"
+          ],
+          "editableUntil": "2022-09-21T10:24:21.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JGBUZE0q98",
+            "expanded_url": "https://twitter.com/phocks/status/1572524624256323585/photo/1",
+            "id": "1572524616429740032",
+            "id_str": "1572524616429740032",
+            "indices": [
+              "54",
+              "77"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdK6zpraIAANYu1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdK6zpraIAANYu1.jpg",
+            "sizes": {
+              "large": {
+                "h": "1987",
+                "resize": "fit",
+                "w": "1439"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "869"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "492"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JGBUZE0q98"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "946553114278195200",
+            "id_str": "946553114278195200",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Linda Ⓥ",
+            "screen_name": "LindaKayak7"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JGBUZE0q98",
+            "expanded_url": "https://twitter.com/phocks/status/1572524624256323585/photo/1",
+            "id": "1572524616429740032",
+            "id_str": "1572524616429740032",
+            "indices": [
+              "54",
+              "77"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdK6zpraIAANYu1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdK6zpraIAANYu1.jpg",
+            "sizes": {
+              "large": {
+                "h": "1987",
+                "resize": "fit",
+                "w": "1439"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "869"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "492"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JGBUZE0q98"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@LindaKayak7 Lunch was this one. Dinner Impossible :) https://t.co/JGBUZE0q98",
+      "id": "1572524624256323585",
+      "id_str": "1572524624256323585",
+      "in_reply_to_screen_name": "LindaKayak7",
+      "in_reply_to_status_id": "1572524182508023808",
+      "in_reply_to_status_id_str": "1572524182508023808",
+      "in_reply_to_user_id": "946553114278195200",
+      "in_reply_to_user_id_str": "946553114278195200",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 13:03:27 +0000 2022",
+      "display_text_range": [
+        "0",
+        "272"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572572213873876993"
+          ],
+          "editableUntil": "2022-09-21T13:33:27.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FvtIEs3Xkh",
+            "expanded_url": "https://twitter.com/phocks/status/1572572213873876993/photo/1",
+            "id": "1572569919266639873",
+            "id_str": "1572569919266639873",
+            "indices": [
+              "249",
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdLkAn5aUAEbrCQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdLkAn5aUAEbrCQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "medium": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "small": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FvtIEs3Xkh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FvtIEs3Xkh",
+            "expanded_url": "https://twitter.com/phocks/status/1572572213873876993/photo/1",
+            "id": "1572569919266639873",
+            "id_str": "1572569919266639873",
+            "indices": [
+              "249",
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdLkAn5aUAEbrCQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdLkAn5aUAEbrCQ.jpg",
+            "sizes": {
+              "large": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "medium": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "small": {
+                "h": "223",
+                "resize": "fit",
+                "w": "468"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FvtIEs3Xkh"
+          },
+          {
+            "display_url": "pic.twitter.com/FvtIEs3Xkh",
+            "expanded_url": "https://twitter.com/phocks/status/1572572213873876993/photo/1",
+            "id": "1572569932990414852",
+            "id_str": "1572569932990414852",
+            "indices": [
+              "249",
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdLkBbBagAQZAV1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdLkBbBagAQZAV1.jpg",
+            "sizes": {
+              "large": {
+                "h": "768",
+                "resize": "fit",
+                "w": "1280"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "408",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FvtIEs3Xkh"
+          },
+          {
+            "display_url": "pic.twitter.com/FvtIEs3Xkh",
+            "expanded_url": "https://twitter.com/phocks/status/1572572213873876993/photo/1",
+            "id": "1572569967387877376",
+            "id_str": "1572569967387877376",
+            "indices": [
+              "249",
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdLkDbKaIAAVLyD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdLkDbKaIAAVLyD.jpg",
+            "sizes": {
+              "large": {
+                "h": "756",
+                "resize": "fit",
+                "w": "1260"
+              },
+              "medium": {
+                "h": "720",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "408",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FvtIEs3Xkh"
+          },
+          {
+            "display_url": "pic.twitter.com/FvtIEs3Xkh",
+            "expanded_url": "https://twitter.com/phocks/status/1572572213873876993/photo/1",
+            "id": "1572569980201476096",
+            "id_str": "1572569980201476096",
+            "indices": [
+              "249",
+              "272"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdLkEK5aIAAkgaB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdLkEK5aIAAkgaB.jpg",
+            "sizes": {
+              "large": {
+                "h": "203",
+                "resize": "fit",
+                "w": "400"
+              },
+              "medium": {
+                "h": "203",
+                "resize": "fit",
+                "w": "400"
+              },
+              "small": {
+                "h": "203",
+                "resize": "fit",
+                "w": "400"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/FvtIEs3Xkh"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "X-Files rewatch 9x16 \"William\"\n\nDuchovny's return??? A mysterious disfigured man arrives who may or may not be Mulder. Scully decides to give her baby up for adoption to protect him from the top secret government alien coverup 👽\n\n4 episodes to go 👀 https://t.co/FvtIEs3Xkh",
+      "id": "1572572213873876993",
+      "id_str": "1572572213873876993",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 05:07:19 +0000 2009",
+      "display_text_range": [
+        "0",
+        "108"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572648553"
+          ],
+          "editableUntil": "2009-04-21T06:07:19.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "installing portable apps on new 8gig flash drive & backing up a whole heap of stuff http://portableapps.com/",
+      "id": "1572648553",
+      "id_str": "1572648553",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 22:22:44 +0000 2022",
+      "display_text_range": [
+        "0",
+        "201"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572712963160809473"
+          ],
+          "editableUntil": "2022-09-21T22:52:44.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "14",
+      "favorited": false,
+      "full_text": "Raining on Australia's national day of mourning for the Queen. Coincidence? I think not! Cool time for quiet reflection on the absurdity of Empire &amp; Nation States anyway. Enjoy your time off folks!",
+      "id": "1572712963160809473",
+      "id_str": "1572712963160809473",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 23:22:02 +0000 2022",
+      "display_text_range": [
+        "0",
+        "72"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572727886096011266"
+          ],
+          "editableUntil": "2022-09-21T23:52:02.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/l0oGQlkSRE",
+            "expanded_url": "https://twitter.com/phocks/status/1572727886096011266/photo/1",
+            "id": "1572727874519695360",
+            "id_str": "1572727874519695360",
+            "indices": [
+              "49",
+              "72"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdNzq1EaAAARjik.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdNzq1EaAAARjik.jpg",
+            "sizes": {
+              "large": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "medium": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "small": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/l0oGQlkSRE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "511953558",
+            "id_str": "511953558",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "mr lochlan",
+            "screen_name": "loklaan"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/l0oGQlkSRE",
+            "expanded_url": "https://twitter.com/phocks/status/1572727886096011266/photo/1",
+            "id": "1572727874519695360",
+            "id_str": "1572727874519695360",
+            "indices": [
+              "49",
+              "72"
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdNzq1EaAAARjik.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdNzq1EaAAARjik.jpg",
+            "sizes": {
+              "large": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "medium": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "small": {
+                "h": "170",
+                "resize": "fit",
+                "w": "170"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/l0oGQlkSRE",
+            "video_info": {
+              "aspect_ratio": [
+                "1",
+                "1"
+              ],
+              "variants": [
+                {
+                  "bitrate": "0",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/FdNzq1EaAAARjik.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@loklaan You are strong in the ways of teh force https://t.co/l0oGQlkSRE",
+      "id": "1572727886096011266",
+      "id_str": "1572727886096011266",
+      "in_reply_to_screen_name": "loklaan",
+      "in_reply_to_status_id": "1572726595542200320",
+      "in_reply_to_status_id_str": "1572726595542200320",
+      "in_reply_to_user_id": "511953558",
+      "in_reply_to_user_id_str": "511953558",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Sep 21 23:43:47 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572733360287657984"
+          ],
+          "editableUntil": "2022-09-22T00:13:47.722Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1536493496",
+            "id_str": "1536493496",
+            "indices": [
+              "3",
+              "14"
+            ],
+            "name": "Matthew Luxmoore",
+            "screen_name": "mjluxmoore"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @mjluxmoore: Protests in Moscow and St Petersburg today have grown pretty large. People chanting “No to War!” Dozens of arrests reported…",
+      "id": "1572733360287657984",
+      "id_str": "1572733360287657984",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Sep 22 07:11:51 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1572846120459702272"
+          ],
+          "editableUntil": "2022-09-22T07:41:51.842Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1871258388",
+            "id_str": "1871258388",
+            "indices": [
+              "3",
+              "15"
+            ],
+            "name": "Monte Bovill",
+            "screen_name": "MonteBovill"
+          },
+          {
+            "id": "2768501",
+            "id_str": "2768501",
+            "indices": [
+              "121",
+              "129"
+            ],
+            "name": "ABC News",
+            "screen_name": "abcnews"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @MonteBovill: Incredible scenes here on Tasmania’s west coast, with the surviving whales being taken to deeper waters @abcnews https://t…",
+      "id": "1572846120459702272",
+      "id_str": "1572846120459702272",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 02:20:45 +0000 2012",
+      "display_text_range": [
+        "0",
+        "34"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157285858666496000"
+          ],
+          "editableUntil": "2012-01-12T03:20:45.593Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "creating whirlpools, poaching eggs",
+      "id": "157285858666496000",
+      "id_str": "157285858666496000",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "coordinates": {
+        "coordinates": [
+          "144.98521",
+          "-37.793407"
+        ],
+        "type": "Point"
+      },
+      "created_at": "Fri Dec 17 11:23:12 +0000 2010",
+      "display_text_range": [
+        "0",
+        "131"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15728714402758656"
+          ],
+          "editableUntil": "2010-12-17T12:23:12.396Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "paid for the tram in 5 cent pieces, holding up the machine for a few stops. had no bigger change / how else do get rid of them all?",
+      "geo": {
+        "coordinates": [
+          "-37.793407",
+          "144.98521"
+        ],
+        "type": "Point"
+      },
+      "id": "15728714402758656",
+      "id_str": "15728714402758656",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 06:51:10 +0000 2009",
+      "display_text_range": [
+        "0",
+        "83"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573132782"
+          ],
+          "editableUntil": "2009-04-21T07:51:10.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "no time for a lunch break today. there's a black hole where my stomach used to be..",
+      "id": "1573132782",
+      "id_str": "1573132782",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Fri Sep 23 06:26:05 +0000 2022",
+      "display_text_range": [
+        "0",
+        "260"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573196990707539971"
+          ],
+          "editableUntil": "2022-09-23T06:56:05.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/61lhpmbULM",
+            "expanded_url": "https://twitter.com/phocks/status/1573196990707539971/photo/1",
+            "id": "1573196982742446080",
+            "id_str": "1573196982742446080",
+            "indices": [
+              "237",
+              "260"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdUeUhYUcAAOu0D.png",
+            "media_url_https": "https://pbs.twimg.com/media/FdUeUhYUcAAOu0D.png",
+            "sizes": {
+              "large": {
+                "h": "624",
+                "resize": "fit",
+                "w": "705"
+              },
+              "medium": {
+                "h": "624",
+                "resize": "fit",
+                "w": "705"
+              },
+              "small": {
+                "h": "602",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/61lhpmbULM"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/phocks/status/…",
+            "expanded_url": "https://twitter.com/phocks/status/1426366965799477252",
+            "indices": [
+              "213",
+              "236"
+            ],
+            "url": "https://t.co/ooSoEoovqr"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/61lhpmbULM",
+            "expanded_url": "https://twitter.com/phocks/status/1573196990707539971/photo/1",
+            "id": "1573196982742446080",
+            "id_str": "1573196982742446080",
+            "indices": [
+              "237",
+              "260"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdUeUhYUcAAOu0D.png",
+            "media_url_https": "https://pbs.twimg.com/media/FdUeUhYUcAAOu0D.png",
+            "sizes": {
+              "large": {
+                "h": "624",
+                "resize": "fit",
+                "w": "705"
+              },
+              "medium": {
+                "h": "624",
+                "resize": "fit",
+                "w": "705"
+              },
+              "small": {
+                "h": "602",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/61lhpmbULM"
+          }
+        ]
+      },
+      "favorite_count": "5",
+      "favorited": false,
+      "full_text": "For fun I wanted to check the performance increase on my new GPU for this Leela Chess Zero deep learning engine thing so ...\n\nGTX 1050 Ti = 4866 games per day\nRTX 3060 Ti = 23954 games per day\n\n392.273% increase! https://t.co/ooSoEoovqr https://t.co/61lhpmbULM",
+      "id": "1573196990707539971",
+      "id_str": "1573196990707539971",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Fri Sep 23 07:10:32 +0000 2022",
+      "display_text_range": [
+        "0",
+        "170"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573208175972872192"
+          ],
+          "editableUntil": "2022-09-23T07:40:32.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9xmD8F8skR",
+            "expanded_url": "https://twitter.com/phocks/status/1573208175972872192/photo/1",
+            "id": "1573208172898422784",
+            "id_str": "1573208172898422784",
+            "indices": [
+              "147",
+              "170"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdUof39aEAANVCO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdUof39aEAANVCO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "medium": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9xmD8F8skR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9xmD8F8skR",
+            "expanded_url": "https://twitter.com/phocks/status/1573208175972872192/photo/1",
+            "id": "1573208172898422784",
+            "id_str": "1573208172898422784",
+            "indices": [
+              "147",
+              "170"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdUof39aEAANVCO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdUof39aEAANVCO.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "medium": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1080"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9xmD8F8skR"
+          }
+        ]
+      },
+      "favorite_count": "200",
+      "favorited": false,
+      "full_text": "Heading out to dinner for fancy vegan Italian food at Nonna's Nightmare in West End. 5 years ago this happened and it's been bliss ever since! 💍💒💕 https://t.co/9xmD8F8skR",
+      "id": "1573208175972872192",
+      "id_str": "1573208175972872192",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 07:31:48 +0000 2009",
+      "display_text_range": [
+        "0",
+        "99"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573295564"
+          ],
+          "editableUntil": "2009-04-21T08:31:48.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "a swift vespa ride home, in wind-chilled autumn air, will nearly freeze down to the bone. here i go",
+      "id": "1573295564",
+      "id_str": "1573295564",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Fri Sep 23 22:04:14 +0000 2022",
+      "display_text_range": [
+        "0",
+        "121"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573433082262491139"
+          ],
+          "editableUntil": "2022-09-23T22:34:14.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cyyn9drb1J",
+            "expanded_url": "https://twitter.com/phocks/status/1573433082262491139/photo/1",
+            "id": "1573432695962468352",
+            "id_str": "1573432695962468352",
+            "indices": [
+              "98",
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdX0s1jUAAADjVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdX0s1jUAAADjVh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1440",
+                "resize": "fit",
+                "w": "1440"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cyyn9drb1J"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cyyn9drb1J",
+            "expanded_url": "https://twitter.com/phocks/status/1573433082262491139/photo/1",
+            "id": "1573432695962468352",
+            "id_str": "1573432695962468352",
+            "indices": [
+              "98",
+              "121"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdX0s1jUAAADjVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdX0s1jUAAADjVh.jpg",
+            "sizes": {
+              "large": {
+                "h": "1440",
+                "resize": "fit",
+                "w": "1440"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cyyn9drb1J"
+          }
+        ]
+      },
+      "favorite_count": "23",
+      "favorited": false,
+      "full_text": "We also paid good money for a real photographer of the actual moment so I guess I should share. 📸 https://t.co/cyyn9drb1J",
+      "id": "1573433082262491139",
+      "id_str": "1573433082262491139",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1573208175972872192",
+      "in_reply_to_status_id_str": "1573208175972872192",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Fri Sep 23 23:18:56 +0000 2022",
+      "display_text_range": [
+        "0",
+        "37"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573451880373825536"
+          ],
+          "editableUntil": "2022-09-23T23:48:56.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "175786133",
+            "id_str": "175786133",
+            "indices": [
+              "0",
+              "10"
+            ],
+            "name": "Paige Ring",
+            "screen_name": "PaigeRing"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@PaigeRing Ate our food too fast haha",
+      "id": "1573451880373825536",
+      "id_str": "1573451880373825536",
+      "in_reply_to_screen_name": "PaigeRing",
+      "in_reply_to_status_id": "1573451693605507094",
+      "in_reply_to_status_id_str": "1573451693605507094",
+      "in_reply_to_user_id": "175786133",
+      "in_reply_to_user_id_str": "175786133",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 00:29:01 +0000 2022",
+      "display_text_range": [
+        "0",
+        "210"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573469516561981441"
+          ],
+          "editableUntil": "2022-09-24T00:59:01.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abc.net.au/news/2022-09-2…",
+            "expanded_url": "https://www.abc.net.au/news/2022-09-23/what-happened-to-mahsa-mini-iran-protests-death-iranian-women/101467612",
+            "indices": [
+              "187",
+              "210"
+            ],
+            "url": "https://t.co/4grahCmrAi"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "33",
+      "favorited": false,
+      "full_text": "\"Women in Iran should have the right to wear what they want, free from violence or harassment. Iran must end its use of violence against women for exercising their fundamental freedoms.\" https://t.co/4grahCmrAi",
+      "id": "1573469516561981441",
+      "id_str": "1573469516561981441",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "10",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 00:49:19 +0000 2022",
+      "display_text_range": [
+        "0",
+        "144"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573474626373443585"
+          ],
+          "editableUntil": "2022-09-24T01:19:19.329Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1094276372044800000",
+            "id_str": "1094276372044800000",
+            "indices": [
+              "3",
+              "12"
+            ],
+            "name": "Assal Rad",
+            "screen_name": "AssalRad"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @AssalRad: This my mom’s Iranian passport before &amp; after the revolution. I respect women who choose to wear hijab, bc in all cases I res…",
+      "id": "1573474626373443585",
+      "id_str": "1573474626373443585",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 01:13:47 +0000 2022",
+      "display_text_range": [
+        "0",
+        "30"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573480782903255041"
+          ],
+          "editableUntil": "2022-09-24T01:43:47.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1118280892844138496",
+            "id_str": "1118280892844138496",
+            "indices": [
+              "0",
+              "11"
+            ],
+            "name": "figsta ☄️",
+            "screen_name": "25i_did_it"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@25i_did_it Both are excellent",
+      "id": "1573480782903255041",
+      "id_str": "1573480782903255041",
+      "in_reply_to_screen_name": "25i_did_it",
+      "in_reply_to_status_id": "1573478886481965057",
+      "in_reply_to_status_id_str": "1573478886481965057",
+      "in_reply_to_user_id": "1118280892844138496",
+      "in_reply_to_user_id_str": "1118280892844138496",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 01:26:53 +0000 2022",
+      "display_text_range": [
+        "0",
+        "29"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573484079646851072"
+          ],
+          "editableUntil": "2022-09-24T01:56:53.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "19862362",
+            "id_str": "19862362",
+            "indices": [
+              "0",
+              "13"
+            ],
+            "name": "Arielle Schechter",
+            "screen_name": "acsarchitect"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@acsarchitect Ban all fishing",
+      "id": "1573484079646851072",
+      "id_str": "1573484079646851072",
+      "in_reply_to_screen_name": "acsarchitect",
+      "in_reply_to_status_id": "1573477093551312896",
+      "in_reply_to_status_id_str": "1573477093551312896",
+      "in_reply_to_user_id": "19862362",
+      "in_reply_to_user_id_str": "19862362",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 08:43:12 +0000 2009",
+      "display_text_range": [
+        "0",
+        "130"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573553254"
+          ],
+          "editableUntil": "2009-04-21T09:43:12.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "getting rubbish results from twitter's new helpdesk. Get Satisfaction is a hundred times better http://getsatisfaction.com/twitter",
+      "id": "1573553254",
+      "id_str": "1573553254",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 07:03:10 +0000 2012",
+      "display_text_range": [
+        "0",
+        "42"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157356929780416512"
+          ],
+          "editableUntil": "2012-01-12T08:03:10.267Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "life goes on, drank some tea, wrote a song",
+      "id": "157356929780416512",
+      "id_str": "157356929780416512",
+      "lang": "en",
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 09:00:06 +0000 2022",
+      "display_text_range": [
+        "0",
+        "41"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573598135943065600"
+          ],
+          "editableUntil": "2022-09-24T09:30:06.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gtiak0xEjm",
+            "expanded_url": "https://twitter.com/phocks/status/1573598135943065600/photo/1",
+            "id": "1573598131006373893",
+            "id_str": "1573598131006373893",
+            "indices": [
+              "18",
+              "41"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdaLKbHagAUWIUH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdaLKbHagAUWIUH.jpg",
+            "sizes": {
+              "large": {
+                "h": "748",
+                "resize": "fit",
+                "w": "640"
+              },
+              "medium": {
+                "h": "748",
+                "resize": "fit",
+                "w": "640"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "582"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gtiak0xEjm"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gtiak0xEjm",
+            "expanded_url": "https://twitter.com/phocks/status/1573598135943065600/photo/1",
+            "id": "1573598131006373893",
+            "id_str": "1573598131006373893",
+            "indices": [
+              "18",
+              "41"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdaLKbHagAUWIUH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdaLKbHagAUWIUH.jpg",
+            "sizes": {
+              "large": {
+                "h": "748",
+                "resize": "fit",
+                "w": "640"
+              },
+              "medium": {
+                "h": "748",
+                "resize": "fit",
+                "w": "640"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "582"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gtiak0xEjm"
+          }
+        ]
+      },
+      "favorite_count": "34",
+      "favorited": false,
+      "full_text": "abolish landlords https://t.co/gtiak0xEjm",
+      "id": "1573598135943065600",
+      "id_str": "1573598135943065600",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "11",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 09:00:17 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573598181442859010"
+          ],
+          "editableUntil": "2022-09-24T09:30:17.153Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "363417269",
+            "id_str": "363417269",
+            "indices": [
+              "3",
+              "17"
+            ],
+            "name": "Ashley Clements",
+            "screen_name": "TheAshleyClem"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @TheAshleyClem: Oh look, millennials killed another thing by “not being able to afford it in this economy.” Haha, quirky millennials! ht…",
+      "id": "1573598181442859010",
+      "id_str": "1573598181442859010",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Apr 21 09:26:05 +0000 2009",
+      "display_text_range": [
+        "0",
+        "136"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573700538"
+          ],
+          "editableUntil": "2009-04-21T10:26:05.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "wrenching out these non-standard screws from the PA system, attempting to figure out why it has decided not to play nice, and just flash",
+      "id": "1573700538",
+      "id_str": "1573700538",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "coordinates": {
+        "coordinates": [
+          "144.96574",
+          "-37.80621"
+        ],
+        "type": "Point"
+      },
+      "created_at": "Fri Dec 17 11:59:59 +0000 2010",
+      "display_text_range": [
+        "0",
+        "98"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15737969952423936"
+          ],
+          "editableUntil": "2010-12-17T12:59:59.091Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "so apparently they won the first 8 hour working day in the world here back in 1856. thanks dudes..",
+      "geo": {
+        "coordinates": [
+          "-37.80621",
+          "144.96574"
+        ],
+        "type": "Point"
+      },
+      "id": "15737969952423936",
+      "id_str": "15737969952423936",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 22:51:24 +0000 2022",
+      "display_text_range": [
+        "0",
+        "253"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573807339034902528"
+          ],
+          "editableUntil": "2022-09-24T23:21:24.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "medicalnewstoday.com/articles/what-…",
+            "expanded_url": "https://www.medicalnewstoday.com/articles/what-made-mrsa-a-superbug-farm-pigs-may-provide-the-answer",
+            "indices": [
+              "230",
+              "253"
+            ],
+            "url": "https://t.co/RGIEGhyy1h"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "44",
+      "favorited": false,
+      "full_text": "These new antibiotic resistant bacterial strains will make COVID look like a dress rehearsal. We can either stop exploiting animals on an industrial scale or start preparing for the next global pandemic. There is no third option. https://t.co/RGIEGhyy1h",
+      "id": "1573807339034902528",
+      "id_str": "1573807339034902528",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "25",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sat Sep 24 22:56:17 +0000 2022",
+      "display_text_range": [
+        "0",
+        "117"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573808568628695040"
+          ],
+          "editableUntil": "2022-09-24T23:26:17.367Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "11789302",
+            "id_str": "11789302",
+            "indices": [
+              "3",
+              "8"
+            ],
+            "name": "imp",
+            "screen_name": "lyre"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @lyre: Why murder a baby cow so you can drink his mother’s milk when you could just leave them both the fuck alone",
+      "id": "1573808568628695040",
+      "id_str": "1573808568628695040",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 01:50:02 +0000 2022",
+      "display_text_range": [
+        "0",
+        "28"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573852295938592768"
+          ],
+          "editableUntil": "2022-09-25T02:20:02.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "1835601",
+            "id_str": "1835601",
+            "indices": [
+              "0",
+              "7"
+            ],
+            "name": "geekgirl",
+            "screen_name": "rosiex"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@rosiex Lord of the Fries :)",
+      "id": "1573852295938592768",
+      "id_str": "1573852295938592768",
+      "in_reply_to_screen_name": "rosiex",
+      "in_reply_to_status_id": "1573847175594811394",
+      "in_reply_to_status_id_str": "1573847175594811394",
+      "in_reply_to_user_id": "1835601",
+      "in_reply_to_user_id_str": "1835601",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 03:50:30 +0000 2022",
+      "display_text_range": [
+        "0",
+        "210"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573882611696799744"
+          ],
+          "editableUntil": "2022-09-25T04:20:30.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "23830881",
+            "id_str": "23830881",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Matt Goldman @mattgoldman@mastodon.social",
+            "screen_name": "mattgoldman"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@mattgoldman I just got my email confirming I've been hacked. Haven't been with Optus for years. Hopefully there's a class action law suit and it forces them out of business and we all get a million bucks each!",
+      "id": "1573882611696799744",
+      "id_str": "1573882611696799744",
+      "in_reply_to_screen_name": "mattgoldman",
+      "in_reply_to_status_id": "1573857874857848832",
+      "in_reply_to_status_id_str": "1573857874857848832",
+      "in_reply_to_user_id": "23830881",
+      "in_reply_to_user_id_str": "23830881",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 03:57:45 +0000 2022",
+      "display_text_range": [
+        "0",
+        "19"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573884434922999808"
+          ],
+          "editableUntil": "2022-09-25T04:27:45.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "23830881",
+            "id_str": "23830881",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Matt Goldman @mattgoldman@mastodon.social",
+            "screen_name": "mattgoldman"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@mattgoldman Agreed",
+      "id": "1573884434922999808",
+      "id_str": "1573884434922999808",
+      "in_reply_to_screen_name": "mattgoldman",
+      "in_reply_to_status_id": "1573882825300135937",
+      "in_reply_to_status_id_str": "1573882825300135937",
+      "in_reply_to_user_id": "23830881",
+      "in_reply_to_user_id_str": "23830881",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 07:18:38 +0000 2022",
+      "display_text_range": [
+        "0",
+        "298"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573934987736674304"
+          ],
+          "editableUntil": "2022-09-25T07:48:38.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aBZ1kWTMby",
+            "expanded_url": "https://twitter.com/phocks/status/1573934987736674304/photo/1",
+            "id": "1573934984867762176",
+            "id_str": "1573934984867762176",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fde9h5iaUAA5Smx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fde9h5iaUAA5Smx.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1129"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "662"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "375"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/aBZ1kWTMby"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aBZ1kWTMby",
+            "expanded_url": "https://twitter.com/phocks/status/1573934987736674304/photo/1",
+            "id": "1573934984867762176",
+            "id_str": "1573934984867762176",
+            "indices": [
+              "275",
+              "298"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fde9h5iaUAA5Smx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fde9h5iaUAA5Smx.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1129"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "662"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "375"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/aBZ1kWTMby"
+          }
+        ]
+      },
+      "favorite_count": "43",
+      "favorited": false,
+      "full_text": "Haven't been an Optus customer in many years but yeah looks like my data was still on their servers. That feels extremely illegal. Here's hoping for a multi billion dollar class action settlement and we all become millionaires and Optus goes out of business. Later sk8erz ✌️ https://t.co/aBZ1kWTMby",
+      "id": "1573934987736674304",
+      "id_str": "1573934987736674304",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "9",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 07:20:50 +0000 2022",
+      "display_text_range": [
+        "0",
+        "72"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573935541657423872"
+          ],
+          "editableUntil": "2022-09-25T07:50:50.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "34131253",
+            "id_str": "34131253",
+            "indices": [
+              "0",
+              "11"
+            ],
+            "name": "Ross Floate",
+            "screen_name": "RossFloate"
+          }
+        ]
+      },
+      "favorite_count": "4",
+      "favorited": false,
+      "full_text": "@RossFloate Hmm not sure. Maybe not. Damn companies have too much leeway",
+      "id": "1573935541657423872",
+      "id_str": "1573935541657423872",
+      "in_reply_to_screen_name": "RossFloate",
+      "in_reply_to_status_id": "1573935222252769282",
+      "in_reply_to_status_id_str": "1573935222252769282",
+      "in_reply_to_user_id": "34131253",
+      "in_reply_to_user_id_str": "34131253",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 07:32:29 +0000 2022",
+      "display_text_range": [
+        "0",
+        "277"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573938475568885760"
+          ],
+          "editableUntil": "2022-09-25T08:02:29.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "Possibly unrelated but I also had a random 2 factor auth code SMS this morning for Coinbase indicating someone had my login details. Password changed immediately and yeah I know SMS 2FA is vulnerable to SIM swap attacks (even more so now). Anyway time to ramp up auth security.",
+      "id": "1573938475568885760",
+      "id_str": "1573938475568885760",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1573934987736674304",
+      "in_reply_to_status_id_str": "1573934987736674304",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 07:37:08 +0000 2022",
+      "display_text_range": [
+        "0",
+        "180"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573939647239327745"
+          ],
+          "editableUntil": "2022-09-25T08:07:08.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/MAZ9jpFbYx",
+            "expanded_url": "https://twitter.com/phocks/status/1573939647239327745/photo/1",
+            "id": "1573939644190068736",
+            "id_str": "1573939644190068736",
+            "indices": [
+              "157",
+              "180"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdfBxG3akAA6EJL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdfBxG3akAA6EJL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1441",
+                "resize": "fit",
+                "w": "1440"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1199"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/MAZ9jpFbYx"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/MAZ9jpFbYx",
+            "expanded_url": "https://twitter.com/phocks/status/1573939647239327745/photo/1",
+            "id": "1573939644190068736",
+            "id_str": "1573939644190068736",
+            "indices": [
+              "157",
+              "180"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdfBxG3akAA6EJL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdfBxG3akAA6EJL.jpg",
+            "sizes": {
+              "large": {
+                "h": "1441",
+                "resize": "fit",
+                "w": "1440"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "1199"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/MAZ9jpFbYx"
+          }
+        ]
+      },
+      "favorite_count": "2",
+      "favorited": false,
+      "full_text": "Wow don't mention Coinbase on twitter I guess unless you want lots of links to Google forms asking for your recovery key. Yeah seems totally legit. Thanks 🙃 https://t.co/MAZ9jpFbYx",
+      "id": "1573939647239327745",
+      "id_str": "1573939647239327745",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1573938475568885760",
+      "in_reply_to_status_id_str": "1573938475568885760",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 08:00:48 +0000 2022",
+      "display_text_range": [
+        "0",
+        "45"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573945599379984384"
+          ],
+          "editableUntil": "2022-09-25T08:30:48.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@_vance88_ Yeah I use Bitwarden and 1Password",
+      "id": "1573945599379984384",
+      "id_str": "1573945599379984384",
+      "in_reply_to_status_id": "1573945172240478208",
+      "in_reply_to_status_id_str": "1573945172240478208",
+      "in_reply_to_user_id": "240461439",
+      "in_reply_to_user_id_str": "240461439",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 08:01:23 +0000 2022",
+      "display_text_range": [
+        "0",
+        "27"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573945747942174720"
+          ],
+          "editableUntil": "2022-09-25T08:31:23.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "34131253",
+            "id_str": "34131253",
+            "indices": [
+              "0",
+              "11"
+            ],
+            "name": "Ross Floate",
+            "screen_name": "RossFloate"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@RossFloate That's so silly",
+      "id": "1573945747942174720",
+      "id_str": "1573945747942174720",
+      "in_reply_to_screen_name": "RossFloate",
+      "in_reply_to_status_id": "1573945247289446401",
+      "in_reply_to_status_id_str": "1573945247289446401",
+      "in_reply_to_user_id": "34131253",
+      "in_reply_to_user_id_str": "34131253",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 08:17:26 +0000 2022",
+      "display_text_range": [
+        "0",
+        "13"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573949788886028290"
+          ],
+          "editableUntil": "2022-09-25T08:47:26.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "34131253",
+            "id_str": "34131253",
+            "indices": [
+              "0",
+              "11"
+            ],
+            "name": "Ross Floate",
+            "screen_name": "RossFloate"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@RossFloate 🤦",
+      "id": "1573949788886028290",
+      "id_str": "1573949788886028290",
+      "in_reply_to_screen_name": "RossFloate",
+      "in_reply_to_status_id": "1573949313088376832",
+      "in_reply_to_status_id_str": "1573949313088376832",
+      "in_reply_to_user_id": "34131253",
+      "in_reply_to_user_id_str": "34131253",
+      "lang": "qme",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 08:17:45 +0000 2022",
+      "display_text_range": [
+        "0",
+        "25"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573949867978010624"
+          ],
+          "editableUntil": "2022-09-25T08:47:45.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@_vance88_ They should be",
+      "id": "1573949867978010624",
+      "id_str": "1573949867978010624",
+      "in_reply_to_status_id": "1573946120010547201",
+      "in_reply_to_status_id_str": "1573946120010547201",
+      "in_reply_to_user_id": "240461439",
+      "in_reply_to_user_id_str": "240461439",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 09:34:33 +0000 2012",
+      "display_text_range": [
+        "0",
+        "87"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157395027377655808"
+          ],
+          "editableUntil": "2012-01-12T10:34:33.442Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "22241714",
+            "id_str": "22241714",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "gemshines",
+            "screen_name": "gemlala"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@gemlala taking your advice and putting cheese with my poached eggs this time. amazing!",
+      "id": "157395027377655808",
+      "id_str": "157395027377655808",
+      "in_reply_to_screen_name": "gemlala",
+      "in_reply_to_status_id": "157288392437145600",
+      "in_reply_to_status_id_str": "157288392437145600",
+      "in_reply_to_user_id": "22241714",
+      "in_reply_to_user_id_str": "22241714",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 08:28:59 +0000 2022",
+      "display_text_range": [
+        "0",
+        "16"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573952692783050752"
+          ],
+          "editableUntil": "2022-09-25T08:58:59.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "720020145591062529",
+            "id_str": "720020145591062529",
+            "indices": [
+              "0",
+              "14"
+            ],
+            "name": "grug?",
+            "screen_name": "grug_official"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@grug_official 🌞",
+      "id": "1573952692783050752",
+      "id_str": "1573952692783050752",
+      "in_reply_to_screen_name": "grug_official",
+      "in_reply_to_status_id": "1573928218851090433",
+      "in_reply_to_status_id_str": "1573928218851090433",
+      "in_reply_to_user_id": "720020145591062529",
+      "in_reply_to_user_id_str": "720020145591062529",
+      "lang": "qme",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 09:48:44 +0000 2012",
+      "display_text_range": [
+        "0",
+        "121"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157398595539189760"
+          ],
+          "editableUntil": "2012-01-12T10:48:44.158Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "boldly going where no one has gone before! (aka. just found the complete star trek: tng box set - may be mia for a while)",
+      "id": "157398595539189760",
+      "id_str": "157398595539189760",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 09:51:24 +0000 2012",
+      "display_text_range": [
+        "0",
+        "24"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157399266573303808"
+          ],
+          "editableUntil": "2012-01-12T10:51:24.145Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "595591881",
+            "id_str": "595591881",
+            "indices": [
+              "13",
+              "23"
+            ],
+            "name": "Owen Heaps",
+            "screen_name": "owenheaps"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "Engage! (via @owenheaps)",
+      "id": "157399266573303808",
+      "id_str": "157399266573303808",
+      "lang": "fr",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 11:14:07 +0000 2022",
+      "display_text_range": [
+        "0",
+        "49"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1573994249754148867"
+          ],
+          "editableUntil": "2022-09-25T11:44:07.197Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EtixlkRERN",
+            "expanded_url": "https://twitter.com/philclifton/status/1573356785385476097/video/1",
+            "id": "1573356749054267392",
+            "id_str": "1573356749054267392",
+            "indices": [
+              "26",
+              "49"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573356749054267392/pu/img/mr2EsHasALXCS1P4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573356749054267392/pu/img/mr2EsHasALXCS1P4.jpg",
+            "sizes": {
+              "large": {
+                "h": "370",
+                "resize": "fit",
+                "w": "720"
+              },
+              "medium": {
+                "h": "370",
+                "resize": "fit",
+                "w": "720"
+              },
+              "small": {
+                "h": "349",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1573356785385476097",
+            "source_status_id_str": "1573356785385476097",
+            "source_user_id": "19515721",
+            "source_user_id_str": "19515721",
+            "type": "photo",
+            "url": "https://t.co/EtixlkRERN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "19515721",
+            "id_str": "19515721",
+            "indices": [
+              "3",
+              "15"
+            ],
+            "name": "Phil Clifton",
+            "screen_name": "philclifton"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/EtixlkRERN",
+            "expanded_url": "https://twitter.com/philclifton/status/1573356785385476097/video/1",
+            "id": "1573356749054267392",
+            "id_str": "1573356749054267392",
+            "indices": [
+              "26",
+              "49"
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573356749054267392/pu/img/mr2EsHasALXCS1P4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573356749054267392/pu/img/mr2EsHasALXCS1P4.jpg",
+            "sizes": {
+              "large": {
+                "h": "370",
+                "resize": "fit",
+                "w": "720"
+              },
+              "medium": {
+                "h": "370",
+                "resize": "fit",
+                "w": "720"
+              },
+              "small": {
+                "h": "349",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "source_status_id": "1573356785385476097",
+            "source_status_id_str": "1573356785385476097",
+            "source_user_id": "19515721",
+            "source_user_id_str": "19515721",
+            "type": "video",
+            "url": "https://t.co/EtixlkRERN",
+            "video_info": {
+              "aspect_ratio": [
+                "72",
+                "37"
+              ],
+              "duration_millis": "6733",
+              "variants": [
+                {
+                  "bitrate": "832000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1573356749054267392/pu/vid/720x370/RK55WHnvGEjYDpZs.mp4?tag=12"
+                },
+                {
+                  "bitrate": "256000",
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1573356749054267392/pu/vid/524x270/80-J8uVPFf14evMW.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1573356749054267392/pu/pl/LDPQd2uotf4T0VBc.m3u8?tag=12&container=fmp4&v=dba"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @philclifton: Same tbh https://t.co/EtixlkRERN",
+      "id": "1573994249754148867",
+      "id_str": "1573994249754148867",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Sun Sep 25 20:12:42 +0000 2022",
+      "display_text_range": [
+        "0",
+        "62"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574129788587245568"
+          ],
+          "editableUntil": "2022-09-25T20:42:42.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "305328362",
+            "id_str": "305328362",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Laura Elvery",
+            "screen_name": "lauraelvery"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@lauraelvery Flashbacks to my English teacher in high school 😅",
+      "id": "1574129788587245568",
+      "id_str": "1574129788587245568",
+      "in_reply_to_screen_name": "lauraelvery",
+      "in_reply_to_status_id": "1574124033322651648",
+      "in_reply_to_status_id_str": "1574124033322651648",
+      "in_reply_to_user_id": "305328362",
+      "in_reply_to_user_id_str": "305328362",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Jun 08 23:52:55 +0000 2010",
+      "display_text_range": [
+        "0",
+        "58"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15741438035"
+          ],
+          "editableUntil": "2010-06-09T00:52:55.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "supposed to snow on the mountain today due to a cold front",
+      "id": "15741438035",
+      "id_str": "15741438035",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twidroyd.com\" rel=\"nofollow\">twidroyd (original)</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 01:25:45 +0000 2022",
+      "display_text_range": [
+        "0",
+        "162"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574208573483413504"
+          ],
+          "editableUntil": "2022-09-26T01:55:45.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qZE2UiyPvc",
+            "expanded_url": "https://twitter.com/phocks/status/1574208573483413504/photo/1",
+            "id": "1574208570144739329",
+            "id_str": "1574208570144739329",
+            "indices": [
+              "139",
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fdi2WqHaUAEIr00.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fdi2WqHaUAEIr00.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1154"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "676"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "383"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qZE2UiyPvc"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ko-fi.com/phocks",
+            "expanded_url": "https://ko-fi.com/phocks",
+            "indices": [
+              "111",
+              "134"
+            ],
+            "url": "https://t.co/5sPA1OdoIY"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": "1835601",
+            "id_str": "1835601",
+            "indices": [
+              "31",
+              "38"
+            ],
+            "name": "geekgirl",
+            "screen_name": "rosiex"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qZE2UiyPvc",
+            "expanded_url": "https://twitter.com/phocks/status/1574208573483413504/photo/1",
+            "id": "1574208570144739329",
+            "id_str": "1574208570144739329",
+            "indices": [
+              "139",
+              "162"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fdi2WqHaUAEIr00.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fdi2WqHaUAEIr00.jpg",
+            "sizes": {
+              "large": {
+                "h": "2048",
+                "resize": "fit",
+                "w": "1154"
+              },
+              "medium": {
+                "h": "1200",
+                "resize": "fit",
+                "w": "676"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "383"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qZE2UiyPvc"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "Coffee #3 is brought to you by @rosiex from D-SOL up the road. Really nice flat white on soy. Thanks a bunch!\n\nhttps://t.co/5sPA1OdoIY ☕☕☕ https://t.co/qZE2UiyPvc",
+      "id": "1574208573483413504",
+      "id_str": "1574208573483413504",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 01:36:13 +0000 2022",
+      "display_text_range": [
+        "0",
+        "15"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574211204150882304"
+          ],
+          "editableUntil": "2022-09-26T02:06:13.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@LairinhaRed 🙏💙",
+      "id": "1574211204150882304",
+      "id_str": "1574211204150882304",
+      "in_reply_to_screen_name": "LairaGVieira",
+      "in_reply_to_status_id": "1574210729863008256",
+      "in_reply_to_status_id_str": "1574210729863008256",
+      "in_reply_to_user_id": "1112236596",
+      "in_reply_to_user_id_str": "1112236596",
+      "lang": "qme",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 02:08:22 +0000 2022",
+      "display_text_range": [
+        "0",
+        "140"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574219297924448257"
+          ],
+          "editableUntil": "2022-09-26T02:38:22.862Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "14722572",
+            "id_str": "14722572",
+            "indices": [
+              "3",
+              "12"
+            ],
+            "name": "Tegan Taylor",
+            "screen_name": "teegstar"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "RT @teegstar: Hey Sydney folks, what you up to on Thursday night? Here's a suggestion... come hang with me and listen to some smart people!…",
+      "id": "1574219297924448257",
+      "id_str": "1574219297924448257",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 06:28:56 +0000 2022",
+      "display_text_range": [
+        "0",
+        "35"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574284869404069890"
+          ],
+          "editableUntil": "2022-09-26T06:58:56.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "482003652",
+            "id_str": "482003652",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Ⓥentnor Popular Front",
+            "screen_name": "VeganVPF"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@VeganVPF Could well be likened to!",
+      "id": "1574284869404069890",
+      "id_str": "1574284869404069890",
+      "in_reply_to_screen_name": "VeganVPF",
+      "in_reply_to_status_id": "1574284166652469248",
+      "in_reply_to_status_id_str": "1574284166652469248",
+      "in_reply_to_user_id": "482003652",
+      "in_reply_to_user_id_str": "482003652",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 06:29:55 +0000 2022",
+      "display_text_range": [
+        "0",
+        "74"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574285115970428934"
+          ],
+          "editableUntil": "2022-09-26T06:59:55.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "482003652",
+            "id_str": "482003652",
+            "indices": [
+              "0",
+              "9"
+            ],
+            "name": "Ⓥentnor Popular Front",
+            "screen_name": "VeganVPF"
+          },
+          {
+            "id": "14486697",
+            "id_str": "14486697",
+            "indices": [
+              "65",
+              "72"
+            ],
+            "name": "Parag Agrawal",
+            "screen_name": "paraga"
+          }
+        ]
+      },
+      "favorite_count": "1",
+      "favorited": false,
+      "full_text": "@VeganVPF Reposting due to a typo! Damn where's that edit button @paraga ?",
+      "id": "1574285115970428934",
+      "id_str": "1574285115970428934",
+      "in_reply_to_screen_name": "phocks",
+      "in_reply_to_status_id": "1574284869404069890",
+      "in_reply_to_status_id_str": "1574284869404069890",
+      "in_reply_to_user_id": "5703342",
+      "in_reply_to_user_id_str": "5703342",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 06:30:21 +0000 2022",
+      "display_text_range": [
+        "0",
+        "182"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574285224804253696"
+          ],
+          "editableUntil": "2022-09-26T07:00:21.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "theatlantic.com/international/…",
+            "expanded_url": "https://www.theatlantic.com/international/archive/2022/09/giorgia-meloni-italy-election-fascism-mussolini/671515/",
+            "indices": [
+              "159",
+              "182"
+            ],
+            "url": "https://t.co/ROlKBiH5ri"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "9",
+      "favorited": false,
+      "full_text": "“To uninformed foreigners, her ascent could look like female empowerment; she poses as a defender of women, even as her party has rolled back women’s rights.” https://t.co/ROlKBiH5ri",
+      "id": "1574285224804253696",
+      "id_str": "1574285224804253696",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 10:22:00 +0000 2022",
+      "display_text_range": [
+        "0",
+        "283"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574343521410383873"
+          ],
+          "editableUntil": "2022-09-26T10:52:00.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vET39q4C5s",
+            "expanded_url": "https://twitter.com/phocks/status/1574343521410383873/photo/1",
+            "id": "1574343518667304960",
+            "id_str": "1574343518667304960",
+            "indices": [
+              "260",
+              "283"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdkxFsiacAA3dkg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdkxFsiacAA3dkg.jpg",
+            "sizes": {
+              "large": {
+                "h": "1123",
+                "resize": "fit",
+                "w": "793"
+              },
+              "medium": {
+                "h": "1123",
+                "resize": "fit",
+                "w": "793"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vET39q4C5s"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vET39q4C5s",
+            "expanded_url": "https://twitter.com/phocks/status/1574343521410383873/photo/1",
+            "id": "1574343518667304960",
+            "id_str": "1574343518667304960",
+            "indices": [
+              "260",
+              "283"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdkxFsiacAA3dkg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdkxFsiacAA3dkg.jpg",
+            "sizes": {
+              "large": {
+                "h": "1123",
+                "resize": "fit",
+                "w": "793"
+              },
+              "medium": {
+                "h": "1123",
+                "resize": "fit",
+                "w": "793"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "480"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vET39q4C5s"
+          }
+        ]
+      },
+      "favorite_count": "13",
+      "favorited": false,
+      "full_text": "Finished \"The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World\" and absolutely loved it. A journey from the very beginnings of Silicon Valley right up until the Jan 6th insurrection. What a wild ride! (38 / 52 books in 2022) https://t.co/vET39q4C5s",
+      "id": "1574343521410383873",
+      "id_str": "1574343521410383873",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Jun 09 00:34:19 +0000 2010",
+      "display_text_range": [
+        "0",
+        "31"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15743825911"
+          ],
+          "editableUntil": "2010-06-09T01:34:19.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "beached http://flic.kr/p/88kvPF",
+      "id": "15743825911",
+      "id_str": "15743825911",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://flickr.com/services/twitter/\" rel=\"nofollow\">Flickr</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Jun 09 00:56:07 +0000 2010",
+      "display_text_range": [
+        "0",
+        "121"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15745148884"
+          ],
+          "editableUntil": "2010-06-09T01:56:07.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "69229772",
+            "id_str": "69229772",
+            "indices": [
+              "0",
+              "8"
+            ],
+            "name": "jacq",
+            "screen_name": "jacqray"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@jacqray thanks. last sighting of the film was going through the scanners at melbourne airport. was sure i picked it up..",
+      "id": "15745148884",
+      "id_str": "15745148884",
+      "in_reply_to_screen_name": "jacqray",
+      "in_reply_to_status_id": "15628531266",
+      "in_reply_to_status_id_str": "15628531266",
+      "in_reply_to_user_id": "69229772",
+      "in_reply_to_user_id_str": "69229772",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Mon Sep 26 21:48:05 +0000 2022",
+      "display_text_range": [
+        "0",
+        "277"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574516180928598017"
+          ],
+          "editableUntil": "2022-09-26T22:18:05.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abc.net.au/news/2022-09-2…",
+            "expanded_url": "https://www.abc.net.au/news/2022-09-27/pm-agriculture-adviser-campaigned-live-exports/101473830",
+            "indices": [
+              "254",
+              "277"
+            ],
+            "url": "https://t.co/OyhHMBMjxf"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": "21",
+      "favorited": false,
+      "full_text": "\"Prime Minister Anthony Albanese's chief adviser on agriculture policy previously condemned mainstream animal farming as \"inherently cruel\" and campaigned to end live exports.\" Excellent news. Live exports and industrial animal farming need to end, now. https://t.co/OyhHMBMjxf",
+      "id": "1574516180928598017",
+      "id_str": "1574516180928598017",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "10",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Thu Jan 12 13:42:22 +0000 2012",
+      "display_text_range": [
+        "0",
+        "55"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157457391049379841"
+          ],
+          "editableUntil": "2012-01-12T14:42:22.100Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "making a super silly dance video to send across the sea",
+      "id": "157457391049379841",
+      "id_str": "157457391049379841",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Wed Jun 09 01:16:34 +0000 2010",
+      "display_text_range": [
+        "0",
+        "26"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "15746507673"
+          ],
+          "editableUntil": "2010-06-09T02:16:34.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": "91291625",
+            "id_str": "91291625",
+            "indices": [
+              "0",
+              "12"
+            ],
+            "name": "Ash Oldfield",
+            "screen_name": "AshOldfield"
+          }
+        ]
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "@AshOldfield any time ash!",
+      "id": "15746507673",
+      "id_str": "15746507673",
+      "in_reply_to_screen_name": "AshOldfield",
+      "in_reply_to_status_id": "15743066078",
+      "in_reply_to_status_id_str": "15743066078",
+      "in_reply_to_user_id": "91291625",
+      "in_reply_to_user_id_str": "91291625",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 27 10:06:12 +0000 2022",
+      "display_text_range": [
+        "0",
+        "96"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574701933100937216"
+          ],
+          "editableUntil": "2022-09-27T10:36:12.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5z8zvS3Jhc",
+            "expanded_url": "https://twitter.com/phocks/status/1574701933100937216/photo/1",
+            "id": "1574701923475005441",
+            "id_str": "1574701923475005441",
+            "indices": [
+              "73",
+              "96"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fdp3DmfaIAEx6Zb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fdp3DmfaIAEx6Zb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5z8zvS3Jhc"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5z8zvS3Jhc",
+            "expanded_url": "https://twitter.com/phocks/status/1574701933100937216/photo/1",
+            "id": "1574701923475005441",
+            "id_str": "1574701923475005441",
+            "indices": [
+              "73",
+              "96"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fdp3DmfaIAEx6Zb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fdp3DmfaIAEx6Zb.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5z8zvS3Jhc"
+          },
+          {
+            "display_url": "pic.twitter.com/5z8zvS3Jhc",
+            "expanded_url": "https://twitter.com/phocks/status/1574701933100937216/photo/1",
+            "id": "1574701929934229505",
+            "id_str": "1574701929934229505",
+            "indices": [
+              "73",
+              "96"
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fdp3D-jaEAEgasI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fdp3D-jaEAEgasI.jpg",
+            "sizes": {
+              "large": {
+                "h": "1536",
+                "resize": "fit",
+                "w": "2048"
+              },
+              "medium": {
+                "h": "900",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "510",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5z8zvS3Jhc"
+          }
+        ]
+      },
+      "favorite_count": "86",
+      "favorited": false,
+      "full_text": "Vada picked out her bedtime story tonight and my heart can't take it 💔❤️ https://t.co/5z8zvS3Jhc",
+      "id": "1574701933100937216",
+      "id_str": "1574701933100937216",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "11",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 27 12:44:34 +0000 2022",
+      "display_text_range": [
+        "0",
+        "216"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574741790481354753"
+          ],
+          "editableUntil": "2022-09-27T13:14:34.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t0H6jMhn3K",
+            "expanded_url": "https://twitter.com/phocks/status/1574741790481354753/photo/1",
+            "id": "1574741613448163328",
+            "id_str": "1574741613448163328",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdqbJ3KacAAMSjz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdqbJ3KacAAMSjz.jpg",
+            "sizes": {
+              "large": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t0H6jMhn3K"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/t0H6jMhn3K",
+            "expanded_url": "https://twitter.com/phocks/status/1574741790481354753/photo/1",
+            "id": "1574741613448163328",
+            "id_str": "1574741613448163328",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdqbJ3KacAAMSjz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdqbJ3KacAAMSjz.jpg",
+            "sizes": {
+              "large": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "medium": {
+                "h": "540",
+                "resize": "fit",
+                "w": "960"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t0H6jMhn3K"
+          },
+          {
+            "display_url": "pic.twitter.com/t0H6jMhn3K",
+            "expanded_url": "https://twitter.com/phocks/status/1574741790481354753/photo/1",
+            "id": "1574741631005499392",
+            "id_str": "1574741631005499392",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdqbK4kaIAAfqxe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdqbK4kaIAAfqxe.jpg",
+            "sizes": {
+              "large": {
+                "h": "1080",
+                "resize": "fit",
+                "w": "1920"
+              },
+              "medium": {
+                "h": "675",
+                "resize": "fit",
+                "w": "1200"
+              },
+              "small": {
+                "h": "383",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t0H6jMhn3K"
+          },
+          {
+            "display_url": "pic.twitter.com/t0H6jMhn3K",
+            "expanded_url": "https://twitter.com/phocks/status/1574741790481354753/photo/1",
+            "id": "1574741642070065152",
+            "id_str": "1574741642070065152",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdqbLhyaAAA9G95.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdqbLhyaAAA9G95.jpg",
+            "sizes": {
+              "large": {
+                "h": "428",
+                "resize": "fit",
+                "w": "764"
+              },
+              "medium": {
+                "h": "428",
+                "resize": "fit",
+                "w": "764"
+              },
+              "small": {
+                "h": "381",
+                "resize": "fit",
+                "w": "680"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t0H6jMhn3K"
+          },
+          {
+            "display_url": "pic.twitter.com/t0H6jMhn3K",
+            "expanded_url": "https://twitter.com/phocks/status/1574741790481354753/photo/1",
+            "id": "1574741655076638720",
+            "id_str": "1574741655076638720",
+            "indices": [
+              "193",
+              "216"
+            ],
+            "media_url": "http://pbs.twimg.com/media/FdqbMSPakAA69zA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FdqbMSPakAA69zA.jpg",
+            "sizes": {
+              "large": {
+                "h": "800",
+                "resize": "fit",
+                "w": "543"
+              },
+              "medium": {
+                "h": "800",
+                "resize": "fit",
+                "w": "543"
+              },
+              "small": {
+                "h": "680",
+                "resize": "fit",
+                "w": "462"
+              },
+              "thumb": {
+                "h": "150",
+                "resize": "crop",
+                "w": "150"
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/t0H6jMhn3K"
+          }
+        ]
+      },
+      "favorite_count": "3",
+      "favorited": false,
+      "full_text": "X-Files rewatch 9x17 \"Release\"\n\nEnjoyed this one. Doggett tracks down his son's killer with the help of a psychic visionary and finally gets some closure on the case.\n\nTHREE EPISODES LEFT. 👽👽👽 https://t.co/t0H6jMhn3K",
+      "id": "1574741790481354753",
+      "id_str": "1574741790481354753",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "retweet_count": "1",
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "coordinates": {
+        "coordinates": [
+          "147.31556978",
+          "-42.85533835"
+        ],
+        "type": "Point"
+      },
+      "created_at": "Thu Jan 12 15:49:31 +0000 2012",
+      "display_text_range": [
+        "0",
+        "128"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "157489391172984833"
+          ],
+          "editableUntil": "2012-01-12T16:49:31.524Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "0",
+      "favorited": false,
+      "full_text": "late night snack in sleep's stead, lawyers tomorrow to sort out the will & estate etc, should really be turning in for the night",
+      "geo": {
+        "coordinates": [
+          "-42.85533835",
+          "147.31556978"
+        ],
+        "type": "Point"
+      },
+      "id": "157489391172984833",
+      "id_str": "157489391172984833",
+      "lang": "en",
+      "retweet_count": "0",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  },
+  {
+    "tweet": {
+      "created_at": "Tue Sep 27 23:55:45 +0000 2022",
+      "display_text_range": [
+        "0",
+        "215"
+      ],
+      "edit_info": {
+        "initial": {
+          "editTweetIds": [
+            "1574910696844070913"
+          ],
+          "editableUntil": "2022-09-28T00:25:45.000Z",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        }
+      },
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": "45",
+      "favorited": false,
+      "full_text": "Introducing our daughter to the original Teenage Mutant Ninja Turtles 1987 animated series was the greatest decision ever she keeps going around telling everyone that Michaelangelo is a party dude and it's hilarious",
+      "id": "1574910696844070913",
+      "id_str": "1574910696844070913",
+      "lang": "en",
+      "retweet_count": "2",
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false
+    }
+  }
+]

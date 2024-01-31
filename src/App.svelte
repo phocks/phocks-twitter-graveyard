@@ -24,7 +24,9 @@
 </script>
 
 <main>
-  {#if fullText !== ""}
+  {#if fullText === ""}
+    <div class="loading"></div>
+  {:else}
     <div class="tweet-container">
       {fullText}
     </div>
@@ -42,5 +44,25 @@
     border-radius: 0.5rem;
     font-size: 1.5rem;
     line-height: 1.5;
+  }
+
+  .loading {
+    width: 32px;
+    height: 32px;
+    background-color: #ccc;
+    animation: loading 750ms infinite;
+    border-radius: 16px;
+  }
+
+  @keyframes loading {
+    0% {
+      background-color: hsl(214, 77%, 44%);
+    }
+    50% {
+      background-color: hsl(115, 78%, 52%);
+    }
+    100% {
+      background-color: hsl(342, 81%, 54%);
+    }
   }
 </style>

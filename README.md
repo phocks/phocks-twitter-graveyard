@@ -8,4 +8,4 @@ Refresh the page for a new random tweet.
 
 (I'll put it on a proper domain later ok)
 
-[http](https://phocks-twitter-graveyard.pages.dev/)https://phocks-twitter-graveyard.pages.dev/
+[https://phocks-twitter-graveyard.pages.dev/](https://phocks-twitter-graveyard.pages.dev/)

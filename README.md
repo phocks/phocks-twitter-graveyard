@@ -9,3 +9,13 @@ Refresh the page for a new random tweet.
 (I'll put it on a proper domain later ok)
 
 [https://phocks-twitter-graveyard.pages.dev/](https://phocks-twitter-graveyard.pages.dev/)
+
+## Development
+
+Build with `npm run build`. This will build to the `dist` directory.
+
+Deployment is to Cloudflare Pages and uses wranger to deploy.
+
+Basically do `npx wrangler login` and follow the login instructions.
+
+Then try `npx wrangler pages deploy dist/` to deploy the site.

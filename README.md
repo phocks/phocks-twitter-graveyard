@@ -18,4 +18,4 @@ Deployment is to Cloudflare Pages and uses wranger to deploy.
 
 Basically do `npx wrangler login` and follow the login instructions.
 
-Then try `npx wrangler pages deploy dist/` to deploy the site.
+Then try `npx wrangler pages deploy dist/ --branch=prodution` to deploy the site to production.
